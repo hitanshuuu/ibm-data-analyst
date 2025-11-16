@@ -1,3 +1,3 @@
 # ibm-data-analyst
-course projects repo
+course projects repo.
 Author - Hitanshu Singh
